@@ -1,0 +1,17 @@
+com/contactList/entity/Email.class
+com/contactList/rest/RESTfulContact.class
+com/contactList/guice/ContactListModule.class
+com/contactList/entity/Classification.class
+com/contactList/daoimpl/ContactDAOImpl.class
+com/contactList/entity/Contact.class
+com/contactList/businessimpl/UserBusinessImpl.class
+com/contactList/entity/User.class
+com/contactList/businessimpl/ContactBusinessImpl.class
+com/contactList/dao/ContactDAO.class
+com/contactList/dao/UserDAO.class
+com/contactList/rest/RESTfulUser.class
+com/contactList/daoimpl/UserDAOImpl.class
+com/contactList/business/ContactBusiness.class
+com/contactList/entity/Address.class
+com/contactList/business/UserBusiness.class
+com/contactList/entity/Phone.class

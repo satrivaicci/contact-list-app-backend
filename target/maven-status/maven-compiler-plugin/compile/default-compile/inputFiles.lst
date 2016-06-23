@@ -1,0 +1,17 @@
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/dao/ContactDAO.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/dao/UserDAO.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/entity/User.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/daoimpl/UserDAOImpl.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/entity/Contact.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/rest/RESTfulContact.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/business/ContactBusiness.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/entity/Classification.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/businessimpl/UserBusinessImpl.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/guice/ContactListModule.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/entity/Phone.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/entity/Email.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/rest/RESTfulUser.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/business/UserBusiness.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/entity/Address.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/businessimpl/ContactBusinessImpl.java
+/Users/angel.espinoza/Documents/intuitproject12/contactList/src/main/java/com/contactList/daoimpl/ContactDAOImpl.java
